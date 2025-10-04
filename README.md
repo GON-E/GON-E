@@ -17,7 +17,9 @@ Hi, I'm Justin Gonzaga, a passionate web developer from Calamba City with a keen
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <br />
-
+<br></br>
+<br></br>
+<br></br>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=GON-E&theme=monokai&hide_border=false" alt="Gon GitHub Stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GON-E&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="Gon GitHub Stats" /> <br>
