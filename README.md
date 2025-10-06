@@ -18,8 +18,6 @@ Hi, I'm Justin Gonzaga, a passionate web developer from Calamba City with a keen
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <br />
 <br></br>
-<br></br>
-<br></br>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GON-E&theme=nightowl" alt="GitHub Streak" /></a>
   <br>
