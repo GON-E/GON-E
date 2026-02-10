@@ -16,6 +16,7 @@ Hi, I'm Justin Gonzaga, a passionate web developer from Calamba City with a keen
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg />
 <br />
 <br></br>
 <div align="center">
