@@ -21,5 +21,5 @@ Hi, I'm Justin Gonzaga, a passionate web developer from Calamba City with a keen
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GON-E)](https://git.io/streak-stats)
   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=GON-E&theme=nightowl&show_icons=true&hide_border=false&count_private=true" alt="Gon GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GON-E&theme=nightowl&show_icons=true)
   </div>
