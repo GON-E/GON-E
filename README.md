@@ -2,7 +2,7 @@
 **`Digital Craftsman (Developer)`**
 
 
-Hi, I'm Justin Gonzaga, a passionate web developer from Calamba City with a keen interest in building modern and responsive digital experiences. My journey into coding began with a fascination for turning creative ideas into functional, user-friendly websites. I thrive on the challenge of solving problems and am dedicated to writing clean, efficient code. When I'm not at my computer, I enjoy playing competitive online games and exploring new local food spots. I am always eager to learn and am currently seeking opportunities to apply my skills to a challenging and meaningful project.
+Hi, I'm Justin Gonzaga, a passionate web developer and a beginner mobile app developer from Calamba City with a keen interest in building modern and responsive digital experiences. My journey into coding began with a fascination for turning creative ideas into functional, user-friendly websites. I thrive on the challenge of solving problems and am dedicated to writing clean, efficient code. When I'm not at my computer, I enjoy playing competitive online games and exploring new local food spots. I am always eager to learn and am currently seeking opportunities to apply my skills to a challenging and meaningful project.
 
 
 
